@@ -132,7 +132,7 @@ As the sole data analyst on the project, I:
 ---
 
 ## Dashboard Snapshot
-![Precision Graph](https://github.com/Suryansh579/Hospitality_domain_analysis/blob/main/Power_BI.png?raw=true)
+![Dashboard](https://github.com/Suryansh579/Hospitality_domain_analysis/blob/main/Power_BI%20.png?raw=true)
 
 
 ## 📍 Conclusion
