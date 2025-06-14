@@ -96,12 +96,17 @@ Each metric uses `SELECTEDVALUE()` and `CALCULATE()` filters on week number to c
 
 ## 💡 Additional Insights
 
-Beyond stakeholder requirements, the dashboard also uncovers:
+The dashboard also uncovers:
 
 - Booking behavior by **platform preference**
 - Revenue leakage due to **cancellations** and **no-shows**
 - Customer satisfaction trends through **rating analysis**
 - Utilization metrics (**DBRN**, **DSRN**, **DURN**) to optimize operational planning
+- City-wise revenue contributors
+- Booking channel performance impact
+- Room-class popularity by city and category
+- Correlation between ratings and booking volume
+- Cancellation trends by platform and room category
 
 ---
 
@@ -111,6 +116,7 @@ Beyond stakeholder requirements, the dashboard also uncovers:
 - DAX (Data Analysis Expressions)  
 - Data Modeling with star schema  
 - CSV as data source
+- Visualization: Bar charts, line graphs, donut charts, KPIs, slicers
 
 ---
 
@@ -125,12 +131,7 @@ As the sole data analyst on the project, I:
 
 ---
 
-## 📎 License
+## Dashboard Snapshot
 
-This project is intended for educational and demonstration purposes only.
-
----
-
-## 📬 Contact
-
-For any queries or collaboration, feel free to connect via [LinkedIn](https://linkedin.com) or email.
+## 📍 Conclusion
+This project reflects a real-world end-to-end BI use case—right from understanding business objectives to deriving insights from data using Power BI. With calculated KPIs, time intelligence, and stakeholder-centric visuals, the dashboard empowers AtliQ Grands to make data-driven decisions to recapture market share.
