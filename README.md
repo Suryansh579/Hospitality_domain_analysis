@@ -132,6 +132,8 @@ As the sole data analyst on the project, I:
 ---
 
 ## Dashboard Snapshot
+![Precision Graph](https://github.com/Suryansh579/Hospitality_domain_analysis/blob/main/Power_BI.png?raw=true)
+
 
 ## 📍 Conclusion
 This project reflects a real-world end-to-end BI use case—right from understanding business objectives to deriving insights from data using Power BI. With calculated KPIs, time intelligence, and stakeholder-centric visuals, the dashboard empowers AtliQ Grands to make data-driven decisions to recapture market share.
